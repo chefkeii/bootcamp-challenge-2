@@ -1,0 +1,10 @@
+header{
+    display:flex;
+}
+nav{
+    display: block;
+    float: right;
+}
+p {
+    margin: 1rem;
+}
