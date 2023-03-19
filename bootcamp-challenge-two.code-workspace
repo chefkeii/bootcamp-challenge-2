@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "bootcamp-challenge-two",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootcamp-challenge-two"
+	}
+}
